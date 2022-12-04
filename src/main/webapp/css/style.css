@@ -1,0 +1,276 @@
+/*impostazione dei div e dell'header*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: "Courier New", sans-serif;
+    background-image: url("../images/background/background.jpg");
+}
+
+#header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+}
+
+#footer {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+}
+
+h1 {
+    margin: 20px;
+    padding: 14px 16px;
+    font-weight: normal;
+    font-size: 2.8em;
+    color: white;
+}
+
+/*----------------------------*/
+
+/*impostazione navbar*/
+
+#navbar {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: rgba(0,0,0,0.8);
+}
+
+#navbar a:link, a:visited, a:hover, a:active{
+    color: white;
+    text-decoration: none;
+}
+
+#navbar li{
+    padding: 14px 16px;
+    display: block;
+    float: left;
+    font-size: medium;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#navbar li:hover {
+    background-color: black;
+}
+
+#search-bar {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#search-form {
+    padding: 0;
+    margin: 0;
+}
+
+#search-text {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 0;
+    font-family: "Courier New", sans-serif;
+}
+
+#search-button {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+/*----------------------------*/
+
+/*impostazione footer*/
+
+#footer p {
+    padding: 14px 16px;
+    color: white;
+}
+
+/*----------------------------*/
+
+/*impostazione contenuto: slider di immagini della home*/
+
+#slider {
+    margin: 20px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#image-slider img {
+    height: 600px;
+    width: 1000px;
+    object-fit: cover;
+    display: none;
+    border: solid rgba(0,0,0,0.8) 10px;
+}
+
+#image-slider img:nth-child(1) {
+    display: block;
+}
+
+#slider button {
+    margin-top: 280px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid gray;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#slider #left{
+    margin-right: 20px;
+}
+
+#slider #right{
+    margin-left: 20px;
+}
+
+/*----------------------------*/
+
+/*impostazione contenuto: catalogo(abbigliamento, footwear, accessori)*/
+
+#grid-container ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+#grid-container ul li {
+    margin: 20px;
+    padding: 10px 10px;
+    font-size: medium;
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+}
+
+#grid-container ul li img {
+    margin: 0;
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+
+#grid-container ul li label {
+    padding: 10px 10px;
+    color: white;
+}
+
+#grid-container ul li select {
+    padding: 10px 10px;
+    font-family: "Courier New", sans-serif;
+    color: white;
+    border-style: none;
+    background-color: transparent;
+}
+
+#grid-container ul li select *{
+    color:white;
+    background-color: black;
+}
+
+input[type=button] {
+    margin-left: 20px;
+    padding: 14px 16px;
+    font-size: small;
+    font-family: "Courier New", sans-serif;
+    color: white;
+    border: transparent;
+    background-color: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+/*impostazione contenuto: carrello, login e registrazione*/
+
+input[type=submit] {
+    margin-left: 20px;
+    padding: 14px 16px;
+    font-size: small;
+    font-family: "Courier New", sans-serif;
+    color: white;
+    border: transparent;
+    background-color: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#content p {
+    margin: 20px;
+    padding: 14px 16px;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.login-signup {
+    padding: 14px 16px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.login-signup h2 {
+    font-weight: normal;
+    color: white;
+}
+
+.login-signup label {
+    color: white;
+}
+
+.log-sig-field {
+    padding: 5px;
+}
+
+#log-button {
+    margin-left: 45px;
+}
+
+#reg-button {
+    margin-left: 35px;
+}
+
+/*impostazione contenuto: profilo admin*/
+
+.db-add {
+    padding: 14px 16px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.db-add h2 {
+    font-weight: normal;
+    color: white;
+}
+
+.db-add label {
+    color: white;
+}
+
+.db-add-field {
+    padding: 5px;
+}
+
+#add-capo-button, #add-foot-button, #add-acc-button {
+    margin-left: 55px;
+}
