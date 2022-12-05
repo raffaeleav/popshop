@@ -2,7 +2,7 @@
 Una piattaforma e-commerce sviluppata come progetto per l' insegnamento di Tecnologie software per il web, del corso di Laurea in Informatica dell' Università degli studi di Salerno.
 
 # Funzionalità 
-Una breve descrizione dei contenuti del sito e delle funzionalità a disposizione dell’utente e dell’amministratore del sito.
+Una breve descrizione dei contenuti del sito e delle funzionalità a disposizione dell’utente e dell’amministratore del sito:
 - Visualizzazione catalogo. 
 - Ricerca articoli. 
 - Aggiungere al carrello un articolo.
