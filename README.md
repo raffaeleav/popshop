@@ -1,7 +1,13 @@
-# PopShop
-Una piattaforma e-commerce sviluppata come progetto per l' insegnamento di Tecnologie software per il web, del corso di Laurea in Informatica dell' Università degli studi di Salerno.
+<p align="center">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/a4f02382-578b-452c-8a01-93437a8e19cc" width="512" heigth="120">
+</p>
 
-# Funzionalità 
+<p align="center">
+  Una piattaforma e-commerce sviluppata come progetto per l'insegnamento di Tecnologie software per il web, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
+</p>
+
+
+## Funzionalità 
 Una breve descrizione dei contenuti del sito e delle funzionalità a disposizione dell’utente e dell’amministratore del sito:
 - Visualizzazione catalogo. 
 - Ricerca articoli. 
@@ -10,10 +16,10 @@ Una breve descrizione dei contenuti del sito e delle funzionalità a disposizion
 - Acquisto.
 - Aggiunta di nuovi articoli. 
 
-# Diagramma navigazionale 
+## Diagramma navigazionale 
 ![nav](https://user-images.githubusercontent.com/114619463/205489180-f401e263-b149-45ff-b1e8-f0b9b775f89e.png)
 
-# Layout
+## Layout
 - Home 
 
 ![00 - Home](https://user-images.githubusercontent.com/114619463/205489308-a6c600d7-adb7-4f36-b0c4-a317b42f42b9.png)
@@ -30,8 +36,8 @@ Una breve descrizione dei contenuti del sito e delle funzionalità a disposizion
 
 ![03 - Area utente](https://user-images.githubusercontent.com/114619463/205489338-b2a4c44a-6092-4e56-bce6-91f888914f28.png)
 
-# Mappa dei contenuti
+## Mappa dei contenuti
 ![contenuti](https://user-images.githubusercontent.com/114619463/205489360-a6420db4-ea6c-428a-a3e3-46d17035c5a7.png)
 
-# Schema E-R della Base di dati
+## Schema E-R della Base di dati
 ![Schema E-R](https://user-images.githubusercontent.com/114619463/205489397-c26527d7-f897-47ea-b0cf-32aae1830d3c.png)
