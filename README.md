@@ -8,13 +8,15 @@
 
 
 ## Funzionalità 
-Una breve descrizione dei contenuti del sito e delle funzionalità a disposizione dell’utente e dell’amministratore del sito:
-- Visualizzazione catalogo. 
-- Ricerca articoli. 
-- Aggiungere al carrello un articolo.
-- Visualizzazione articoli nel carrello.
-- Acquisto.
-- Aggiunta di nuovi articoli. 
+| Funzionalità | Admin  | Utente |
+| ------------- | ------------- | ------------- |
+| Aggiunta di nuovi articoli  | V | X |
+| Ricerca articoli  | Content Cell | V | V |
+| Visualizzazione catalogo | V | V | 
+| Inserire un articolo nel carrello | V | V |
+| Visualizzazione articoli nel carrello | V | V |
+| Acquisto | V | V |
+
 
 ## Diagramma navigazionale
 <p>
