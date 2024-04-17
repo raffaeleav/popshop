@@ -17,17 +17,17 @@ Una breve descrizione dei contenuti del sito e delle funzionalità a disposizion
 - Aggiunta di nuovi articoli. 
 
 ## Diagramma navigazionale
-<p align="center">
+<p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/eee19c3e-277e-4420-930d-0769f62458c5" width="512" heigth="512">
 </p>
 
 
 ## Mappa dei contenuti
-<p align="center">
+<p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/01d8ecdb-d7c2-4fac-9097-1b0f5dc0e3cc" width="512" heigth="512">
 </p>
 
 
 ## Schema E-R della Base di dati
-<p align="center">
+<p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/189d5224-c7f7-43d6-a7bc-43c9f6a8f466" width="512" heigth="512">
