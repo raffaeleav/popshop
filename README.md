@@ -11,7 +11,7 @@
 | Funzionalità | Admin  | Utente |
 | ------------- | ------------- | ------------- |
 | Aggiunta di nuovi articoli  | V | X |
-| Ricerca articoli  | Content Cell | V | V |
+| Ricerca articoli | V | V |
 | Visualizzazione catalogo | V | V | 
 | Inserire un articolo nel carrello | V | V |
 | Visualizzazione articoli nel carrello | V | V |
@@ -33,3 +33,7 @@
 ## Schema E-R della Base di dati
 <p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/189d5224-c7f7-43d6-a7bc-43c9f6a8f466" width="512" heigth="512">
+
+## Dipendenze 
+- [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
+- [Apache Tomcat](https://tomcat.apache.org/download-10.cgi)
