@@ -32,7 +32,7 @@
 
 ## Schema E-R della Base di dati
 <p>
-  <img src="https://github.com/raffaeleav/popshop/assets/114619463/189d5224-c7f7-43d6-a7bc-43c9f6a8f466" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/0a673a11-f729-4871-9329-b58c10fd1fc0" width="512" heigth="512">
 
 ## Dipendenze 
 - [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
