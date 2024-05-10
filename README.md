@@ -34,6 +34,15 @@
 <p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/0a673a11-f729-4871-9329-b58c10fd1fc0" width="512" heigth="512">
 
+
 ## Dipendenze 
 - [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
 - [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
+
+
+## Built with
+- [Java](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
+- [HTML5](https://www.w3schools.com/html/default.asp)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
+- [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
