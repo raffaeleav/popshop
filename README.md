@@ -27,14 +27,12 @@
 
 
 ## Funzionalità 
-| Funzionalità | Admin  | Utente |
-| ------------- | ------------- | ------------- |
-| Aggiunta di nuovi articoli  | V | X |
-| Ricerca articoli | V | V |
-| Visualizzazione catalogo | V | V | 
-| Inserire un articolo nel carrello | V | V |
-| Visualizzazione articoli nel carrello | V | V |
-| Acquisto | V | V |
+1) Aggiunta di nuovi articoli (Admin only)
+2) Ricerca articoli
+3) Visualizzazione catalogo
+4) Inserire un articolo nel carrello
+5) Visualizzazione articoli nel carrello
+6) Acquisto
 
 
 ## Diagramma navigazionale
