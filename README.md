@@ -27,12 +27,12 @@
 
 
 ## Funzionalità 
-1) Aggiunta di nuovi articoli (Admin only)
+1) Aggiunta di nuovi articoli (Admin)
 2) Ricerca articoli
 3) Visualizzazione catalogo
 4) Inserire un articolo nel carrello
 5) Visualizzazione articoli nel carrello
-6) Acquisto
+6) Acquisto articoli nel carrello
 
 
 ## Diagramma navigazionale
