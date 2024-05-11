@@ -7,6 +7,15 @@
 </p>
 
 
+## Table of Contents
+- [Funzionalità](#Funzionalità)
+- [Diagramma navigazionale](#Diagramma-navigazionale)
+- [Mappa dei contenuti](#Mappa-dei-contenuti)
+- [Schema E-R](#Schema-E-R-della-Base-di-dati)
+- [Dipendenze](#Dipendenze)
+- [Built with](#Built-with)
+
+
 ## Funzionalità 
 | Funzionalità | Admin  | Utente |
 | ------------- | ------------- | ------------- |
@@ -30,9 +39,10 @@
 </p>
 
 
-## Schema E-R della Base di dati
+## Schema E-R
 <p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/0a673a11-f729-4871-9329-b58c10fd1fc0" width="512" heigth="512">
+</p>
 
 
 ## Dipendenze 
