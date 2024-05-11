@@ -39,19 +39,19 @@
 
 ## Diagramma navigazionale
 <p>
-  <img src="https://github.com/raffaeleav/popshop/assets/114619463/eee19c3e-277e-4420-930d-0769f62458c5" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/eee19c3e-277e-4420-930d-0769f62458c5" width="400" heigth="400">
 </p>
 
 
 ## Mappa dei contenuti
 <p>
-  <img src="https://github.com/raffaeleav/popshop/assets/114619463/01d8ecdb-d7c2-4fac-9097-1b0f5dc0e3cc" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/01d8ecdb-d7c2-4fac-9097-1b0f5dc0e3cc" width="400" heigth="400">
 </p>
 
 
 ## Schema E-R
 <p>
-  <img src="https://github.com/raffaeleav/popshop/assets/114619463/0a673a11-f729-4871-9329-b58c10fd1fc0" width="512" heigth="512">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/0a673a11-f729-4871-9329-b58c10fd1fc0" width="400" heigth="400">
 </p>
 
 
