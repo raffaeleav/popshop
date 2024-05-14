@@ -49,6 +49,7 @@
 ## Dipendenze 
 - [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
 - [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
+- [MySQL](https://www.mysql.com/products/community/)
 
 
 ## Built with
@@ -57,3 +58,4 @@
 - [CSS](https://www.w3schools.com/css/) - per la formattazione e gestione del layout responsive della web app.
 - [JavaScript](https://www.w3schools.com/js/) - per la validazione dei form e lo slideshow presenti nella web app.
 - [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp) - per effettuare chiamate asincrone rispetto all'aggiunta di elementi al carrello.
+- [SQL](https://www.w3schools.com/sql/) - per realizzare lo schema fisico della base di dati.
