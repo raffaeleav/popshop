@@ -60,3 +60,4 @@
 - [JavaScript](https://www.w3schools.com/js/) - per la validazione dei form e lo slideshow presenti nella web app.
 - [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp) - per effettuare chiamate asincrone rispetto all'aggiunta di elementi al carrello.
 - [SQL](https://www.w3schools.com/sql/) - per realizzare lo schema fisico della base di dati.
+- [Maven](https://maven.apache.org/) - per la gestione delle dipendenze.
