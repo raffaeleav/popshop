@@ -28,7 +28,7 @@
 
 ## Preview
 <p>
-  <img src="https://github.com/raffaeleav/popshop/assets/114619463/ba33a1f4-a5cf-4247-b8c7-54e8fd4499c5" width="400" heigth="400">
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/1e665e65-f085-4ebb-8af1-8a6b4c59a646" width="400" heigth="400">
 </p>
 
 
