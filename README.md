@@ -9,6 +9,7 @@
 
 ## Table of Contents
 - [About](#About)
+- [Preview](#Preview)
 - [Funzionalità](#Funzionalità)
 - [Diagramma navigazionale](#Diagramma-navigazionale)
 - [Mappa dei contenuti](#Mappa-dei-contenuti)
@@ -22,6 +23,12 @@
   Questa web application è stata progettata e realizzata con l'obiettivo di avere un'esperienza pratica nell'implementazione di un sistema web completo, comprensivo di frontend e backend, per gestire un negozio online.
   L'applicazione offre agli utenti la possibilità di esplorare una vasta gamma di prodotti, aggiungerli al carrello, effettuare ordini e gestire il proprio account. L'amministratore può gestire i prodotti e gli utenti
   attraverso un'interfaccia di amministrazione dedicata.
+</p>
+
+
+## Preview
+<p>
+  <img src="https://github.com/raffaeleav/popshop/assets/114619463/ba33a1f4-a5cf-4247-b8c7-54e8fd4499c5" width="400" heigth="400">
 </p>
 
 
