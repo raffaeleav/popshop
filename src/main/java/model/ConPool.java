@@ -13,10 +13,10 @@ public class ConPool {
     public static Connection getConnection() throws SQLException {
         if (datasource == null) {
             PoolProperties p = new PoolProperties();
-            p.setUrl("jdbc:mysql://localhost:3306/modelloMVCdb?serverTimezone=" + TimeZone.getDefault().getID());
+            p.setUrl("jdbc:mysql://localhost:3306/modelloMVCdb");
             p.setDriverClassName("com.mysql.cj.jdbc.Driver");
             p.setUsername("root");
-            p.setPassword("Root2022");
+            p.setPassword("dasf12*gz");
             p.setMaxActive(100);
             p.setInitialSize(10);
             p.setMinIdle(10);
