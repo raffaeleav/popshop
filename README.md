@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   Popshop è una piattaforma e-commerce sviluppata come progetto per l'insegnamento di Tecnologie Software per il Web, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
+   Una piattaforma e-commerce sviluppata come progetto per l'insegnamento di Tecnologie Software per il Web, del corso di Laurea in Informatica dell'Università degli Studi di Salerno. 
 </p>
 
 
@@ -19,7 +19,7 @@
 
 ## About 
 <p>
-  Popshop è una piattaforma e-commerce sviluppata come progetto per l'insegnamento di Tecnologie Software per il Web, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
+  Una piattaforma e-commerce sviluppata come progetto per l'insegnamento di Tecnologie Software per il Web, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
   Questa web application è stata progettata e realizzata con l'obiettivo di avere un'esperienza pratica nell'implementazione di un sistema web completo, comprensivo di frontend e backend, per gestire un negozio online.
   L'applicazione offre agli utenti la possibilità di esplorare una vasta gamma di prodotti, aggiungerli al carrello, effettuare ordini e gestire il proprio account. L'amministratore può gestire i prodotti e gli utenti
   attraverso un'interfaccia di amministrazione dedicata.
