@@ -10,7 +10,7 @@ Degree program at the University of Salerno
 
 
 ## Table of Contents
-- [About](#About)
+- [Overview](#Overview)
 - [Preview](#Preview)
 - [Features](#Features)
 - [Site map](#Site-map)
@@ -19,7 +19,7 @@ Degree program at the University of Salerno
 - [Built with](#Built-with)
 
 
-## About 
+## Overview 
 <p>
     PopShop was designed and developed with the goal of gaining practical experience in implementing a complete web application, including both frontend and backend, to manage an online store. The application allows users to explore a wide range of products, add them to the cart, place orders, and manage their account. The website admin can manage products and users through a dedicated administration interface.
 </p>
