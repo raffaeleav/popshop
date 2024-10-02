@@ -15,6 +15,7 @@ Degree program at the University of Salerno
 - [Features](#Features)
 - [Site map](#Site-map)
 - [Content map](#Content-map)
+- [How to replicate](#How-to-replicate)
 - [Dependencies](#Dependencies)
 - [Built with](#Built-with)
 
@@ -49,6 +50,37 @@ Degree program at the University of Salerno
 <p>
   <img src="https://github.com/raffaeleav/popshop/assets/114619463/01d8ecdb-d7c2-4fac-9097-1b0f5dc0e3cc" width="400" heigth="400">
 </p>
+
+
+## How to replicate
+1) Clone the repository
+```bash
+git clone https://github.com/raffaeleav/popshop.git
+```
+2) Switch to the project directory
+```bash
+cd popshop
+```
+3) Execute the database script 
+```bash
+sudo mysql -u root -p < ./src/main/webapp/database/database.sql
+```
+4) Build the project
+```bash
+mvn install
+```
+5) Copy the .war file to the webapps directory of your Tomcat server
+```bash
+sudo cp target/popshop-retry-1.0-SNAPSHOT.war /opt/tomcat/apache-tomcat-10.1.30/webapps
+```
+6) Start the Tomcat server (assuming you have created a tomcat systemd service)
+```bash
+sudo systemctl start tomcat
+```
+7) Open the browser and access the webapp running at localhost
+```bash
+xdg-open 'http://localhost/popshop-retry-1.0-SNAPSHOT'
+```
 
 
 ## Dependencies 
