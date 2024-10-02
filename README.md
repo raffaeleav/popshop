@@ -56,6 +56,7 @@ Degree program at the University of Salerno
 - [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
   - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
+- [Maven](https://maven.apache.org/)
 
 
 ## Built with
