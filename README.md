@@ -15,8 +15,8 @@ Degree program at the University of Salerno
 - [Features](#Features)
 - [Site map](#Site-map)
 - [Content map](#Content-map)
-- [How to replicate](#How-to-replicate)
 - [Dependencies](#Dependencies)
+- [How to replicate](#How-to-replicate)
 - [Built with](#Built-with)
 
 
@@ -52,6 +52,14 @@ Degree program at the University of Salerno
 </p>
 
 
+## Dependencies 
+- [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
+- [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
+- [MySQL](https://dev.mysql.com/downloads/installer/)
+  - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
+- [Maven](https://maven.apache.org/)
+
+
 ## How to replicate
 1) Clone the repository
 ```bash
@@ -81,14 +89,6 @@ sudo systemctl start tomcat
 ```bash
 xdg-open 'http://localhost/popshop-retry-1.0-SNAPSHOT'
 ```
-
-
-## Dependencies 
-- [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
-- [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
-- [MySQL](https://dev.mysql.com/downloads/installer/)
-  - [Connector/J](https://dev.mysql.com/downloads/connector/j/)
-- [Maven](https://maven.apache.org/)
 
 
 ## Built with
