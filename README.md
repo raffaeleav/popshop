@@ -61,7 +61,7 @@ git clone https://github.com/raffaeleav/popshop.git
 ```bash
 cd popshop
 ```
-3) Execute the database script 
+3) Execute the database script (be sure to change the MySQL server credentials in model.ConPool)
 ```bash
 sudo mysql -u root -p < ./src/main/webapp/database/database.sql
 ```
