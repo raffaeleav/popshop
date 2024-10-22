@@ -15,7 +15,7 @@ Degree program at the University of Salerno
 - [Features](#Features)
 - [Site map](#Site-map)
 - [Content map](#Content-map)
-- [Dependencies](#Dependencies)
+- [Requirements](#Requirements)
 - [How to replicate](#How-to-replicate)
 - [Built with](#Built-with)
 
@@ -52,7 +52,7 @@ Degree program at the University of Salerno
 </p>
 
 
-## Dependencies 
+## Requirements 
 - [JDK 19](https://www.oracle.com/java/technologies/downloads/#java19 "JDK 19")
 - [Apache Tomcat 10](https://tomcat.apache.org/download-10.cgi)
 - [MySQL](https://dev.mysql.com/downloads/installer/)
